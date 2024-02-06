@@ -1,5 +1,7 @@
 # nanoGPT
 
+This project aims to build a nanoGPT from scratch, using the 'Shakespeare" poem dataset. The tokenizing process involves breaking words into characters. There are a total of 65 characters. Let's see how good this model can generate a good poem as Shakespeare or not!!
+
 # Code walkthrough
 
 ## Important Notation
